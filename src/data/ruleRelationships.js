@@ -10,9 +10,8 @@ export const priorityMeta = {
   CRITICAL: { color: '#D32F2F', label: '절대 위반 불가', order: 1 },
   MUST: { color: '#ED6C02', label: '반드시 준수', order: 2 },
   SHOULD: { color: '#0288D1', label: '관련 작업 시 준수', order: 3 },
-  Reference: { color: '#757575', label: '참조 문서', order: 4 },
-  Skill: { color: '#7B1FA2', label: 'Skill (의도 기반 활성화)', order: 5 },
-  'Skill Resource': { color: '#9E9E9E', label: 'Skill Resource (on-demand)', order: 6 },
+  Skill: { color: '#7B1FA2', label: 'Skill (의도 기반 활성화)', order: 4 },
+  'Skill Resource': { color: '#9E9E9E', label: 'Skill Resource (on-demand)', order: 5 },
 };
 
 export const ruleNodes = [
