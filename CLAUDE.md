@@ -14,6 +14,7 @@
 
 ## Workflow
 
+- 디자인 관련 작업 → `/frontend-design` Skill 사용
 - 컴포넌트 작업 → `component-work` Skill이 워크플로우 담당
 - 리팩토링 → easy-refactoring.md 참조, 기존 스토리 통과 확인
 - 룰 수정 먼저 제안 → `src/data/ruleRelationships.js` 동기화 필수
